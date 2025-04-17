@@ -38,4 +38,4 @@ This helps ChatGPT create a schedule that fits your lifestyle.
 ## Usage
 
 ### Run the scheduler  
-python main.py
+python script.py
