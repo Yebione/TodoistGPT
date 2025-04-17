@@ -1,4 +1,4 @@
-# AI-genda: Smart Todoist Scheduler with ChatGPT
+# TodoistGPT: Smart Todoist Scheduler with ChatGPT
 
 ## Requirements  
 - Python 3.7+  
