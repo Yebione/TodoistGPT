@@ -1,7 +1,3 @@
-Sure, here’s a clean **copy-paste-ready** `README.md`:
-
----
-
 ```markdown
 # AI-genda: Smart Todoist Scheduler with ChatGPT
 
