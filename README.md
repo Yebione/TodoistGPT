@@ -29,6 +29,12 @@ PROJECT_NAME=Test
 ### 5. Install Dependencies  
 pip install openai requests python-dotenv
 
+### 6. Tweak the Prompt Based on Your Context
+Open script.py and look for the ask_openai_to_schedule_json function.
+Edit the prompt string to describe your schedule, habits, and preferences — for example, your work hours, when you exercise, and when you prefer to read.
+This helps ChatGPT create a schedule that fits your lifestyle.
+
+
 ## Usage
 
 ### Run the scheduler  
